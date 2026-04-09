@@ -1,7 +1,7 @@
 # SQL Business Case Study: Northwind Wholesale
 
 ## Business Context
-As a data analyst for Northwind Traders, a wholesale food distributor, I analysed order history to surface insights on revenue growth, customer value, product performance, and delivery efficiency.
+I analysed order history for a wholesale food distributor to surface insights on revenue growth, customer value, product performance, and delivery efficiency.
 
 ---
 
